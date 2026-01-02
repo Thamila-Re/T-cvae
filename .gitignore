@@ -23,6 +23,6 @@ logs/
 .idea/
 
 # Data / outputs (edit as needed)
-data/
+#data/
 output/
 results/
