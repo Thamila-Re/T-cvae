@@ -1,4 +1,4 @@
-# GraphTune
+# Transformer-Based Conditional Graph Generation for Tunable Structural Features
 
 ## Requirement
 
